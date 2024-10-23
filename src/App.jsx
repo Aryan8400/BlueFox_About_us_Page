@@ -12,7 +12,7 @@ import DownloadSection from './components/DownloadSection';
 import Rating from './components/Rating';
 import Footer from './components/Footer';
 import Blog from './components/Blog'; // Import the Blog component
-import GstNews from './components/GstNews'; // Import the GstNews component
+import GstNews from './components/GSTNews'; // Import the GstNews component
 
 const App = () => {
   const location = useLocation(); // Hook to get the current route
