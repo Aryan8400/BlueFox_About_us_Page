@@ -16,7 +16,7 @@ const StatsSection = () => {
           {/* Downloads */}
           <div className="bg-white rounded-lg p-12 shadow-lg w-80">
             <div className="flex justify-center mb-6">
-              <img src="./public/download.png" alt="Downloads Icon" className="w-17 h-17 mr-2" />
+              <img src="/download.png" alt="Downloads Icon" className="w-17 h-17 mr-2" />
             </div>
             <p className="text-lg font-medium text-gray-600">Downloads</p>
             <p className="text-2xl font-bold text-gray-800">10M+</p>
@@ -25,7 +25,7 @@ const StatsSection = () => {
           {/* Play Store Ratings */}
           <div className="bg-white rounded-lg p-12 shadow-lg w-80">
             <div className="flex justify-center mb-6">
-              <img src="./public/play.png" alt="Ratings Icon" className="w-17 h-17 mr-2" />
+              <img src="/play.png" alt="Ratings Icon" className="w-17 h-17 mr-2" />
             </div>
             <p className="text-lg font-medium text-gray-600">Play Store Ratings</p>
             <p className="text-2xl font-bold text-gray-800">4.7 out of 5 stars</p>
@@ -34,7 +34,7 @@ const StatsSection = () => {
           {/* Made in India */}
           <div className="bg-white rounded-lg p-12 shadow-lg w-80">
             <div className="flex justify-center mb-6">
-              <img src="./public/made_in.png" alt="Made in India Icon" className="w-17 h-17 mr-2" />
+              <img src="/made_in.png" alt="Made in India Icon" className="w-17 h-17 mr-2" />
             </div>
             <p className="text-lg font-medium text-gray-600">Made in</p>
             <p className="text-2xl font-bold text-gray-800">India</p>

@@ -8,7 +8,7 @@ const SmeSection = () => {
         {/* Image Section */}
         <div className="w-full md:w-1/2 mb-8 md:mb-0 flex justify-center">
           <img 
-            src="./public/Sme.png" 
+            src="/Sme.png" 
             alt="SME Illustration" 
             className="rounded-lg max-w-full h-auto"
           />

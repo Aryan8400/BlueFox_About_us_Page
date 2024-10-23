@@ -8,7 +8,7 @@ const Footer = () => {
         
         {/* Column 1: Vyapar Logo and Description */}
         <div className="lg:col-span-1">
-          <img src="/public/lgo.webp" alt="Vyapar Logo" className="mb-1" />
+          <img src="/lgo.webp" alt="Vyapar Logo" className="mb-1" />
           <p>Billing Accounting & Inventory software for small business owners in India.</p>
         </div>
 

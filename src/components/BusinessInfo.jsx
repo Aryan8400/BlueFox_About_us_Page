@@ -21,7 +21,7 @@ const BusinessInfo = () => {
         {/* Image Section */}
         <div className="lg:w-1/2 flex justify-center lg:justify-end lg:pr-16 mb-8 lg:mb-0">
           <img 
-            src="./public/invoice.jpg" 
+            src="/invoice.jpg" 
             alt="Phone Mockup with Invoice" 
             className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg h-auto object-contain" 
           />

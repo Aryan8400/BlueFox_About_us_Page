@@ -38,7 +38,7 @@ const FeaturesSection = () => {
           {/* Devices */}
           <div className="bg-white text-center text-black p-6 rounded-lg shadow-md">
             <div className="mb-4">
-              <img src="./public/mop.png" alt="Devices Icon" className="w-18 h-20 mx-auto" />
+              <img src="/mop.png" alt="Devices Icon" className="w-18 h-20 mx-auto" />
             </div>
             <h3 className="font-bold text-lg sm:text-xl">Devices</h3>
             <p className="text-sm sm:text-lg">Mobile, Desktop, Tablet</p>

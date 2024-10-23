@@ -16,7 +16,7 @@ const QuoteSection = () => {
         <div className="w-full md:w-1/2 flex justify-center md:justify-end px-4">
           <div className="text-center">
             <img 
-              src="./public/founder-img.webp" 
+              src="/founder-img.webp" 
               alt="Founders" 
               className="rounded-lg w-56 sm:w-64 md:w-72 h-auto object-cover"
             />

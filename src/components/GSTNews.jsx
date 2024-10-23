@@ -22,7 +22,7 @@ const GSTNews = () => {
         
         {/* Image for Blog Post 3 */}
         <img
-          src="./public/GST1.jpg"
+          src="/GST1.jpg"
           alt="Business Ideas in Bangalore"
           className="w-full h-auto mb-6"
         />
@@ -42,7 +42,7 @@ const GSTNews = () => {
         <br>
         </br>
         <img
-          src="./public/GST2.jpg"
+          src="/GST2.jpg"
           alt="Business Ideas in Bangalore"
           className="w-full h-auto mb-6"
         />

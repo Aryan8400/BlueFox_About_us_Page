@@ -21,7 +21,7 @@ const DownloadSection = () => {
         {/* Image Section */}
         <div className="lg:w-1/2 flex justify-center lg:justify-end relative">
           <img 
-            src="./public/banner.png" 
+            src="/banner.png" 
             alt="Vyapar Logo" 
             className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg h-auto object-cover -mt-10 lg:-mt-20" 
             style={{ zIndex: 1 }}

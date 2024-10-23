@@ -119,7 +119,7 @@ const Blog = () => {
         />
 
       </div>
-      {/* You can add more blog posts similarly */}
+     
     </div>
     
   );
