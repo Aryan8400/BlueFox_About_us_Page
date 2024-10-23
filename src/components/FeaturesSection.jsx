@@ -11,7 +11,7 @@ const FeaturesSection = () => {
           {/* Platform */}
           <div className="bg-white text-center text-black p-6 rounded-lg shadow-md">
             <div className="mb-4">
-              <img src="./public/platform.png" alt="Platforms Icon" className="w-18 h-24 mx-auto" />
+              <img src="/platform.png" alt="Platforms Icon" className="w-18 h-24 mx-auto" />
             </div>
             <h3 className="font-bold text-lg sm:text-xl">Platforms</h3>
             <p className="text-sm sm:text-lg">Android & Windows</p>
@@ -20,7 +20,7 @@ const FeaturesSection = () => {
           {/* Mobile */}
           <div className="bg-white text-center text-black p-6 rounded-lg shadow-md">
             <div className="mb-4">
-              <img src="./public/mobile.png" alt="Mobile Icon" className="w-18 h-20 mx-auto" />
+              <img src="/mobile.png" alt="Mobile Icon" className="w-18 h-20 mx-auto" />
             </div>
             <h3 className="font-bold text-lg sm:text-xl">Mobile</h3>
             <p className="text-sm sm:text-lg">100% FR</p>
@@ -29,7 +29,7 @@ const FeaturesSection = () => {
           {/* Language */}
           <div className="bg-white text-center text-black p-6 rounded-lg shadow-md">
             <div className="mb-4">
-              <img src="./public/languages.png" alt="Language Icon" className="w-18 h-20 mx-auto" />
+              <img src="/languages.png" alt="Language Icon" className="w-18 h-20 mx-auto" />
             </div>
             <h3 className="font-bold text-lg sm:text-xl">Language</h3>
             <p className="text-sm sm:text-lg">English, Hindi</p>

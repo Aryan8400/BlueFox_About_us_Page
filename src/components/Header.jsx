@@ -12,10 +12,11 @@ const Header = () => {
   const toggleMenu = () => {
     setIsOpen(!isOpen);
   };
+  
 
   // Function to handle "Partner With Us" click
   const handlePartnerClick = () => {
-    setIsPartnerPage(true); // Activate the partner page links
+    setIsPartnerPage(true); // Activate the partner page linksi\
   };
 
   // Reset isPartnerPage state if the user navigates away from the Partner With Us section
@@ -68,7 +69,7 @@ const Header = () => {
       <div className="container mx-auto px-4 lg:px-16 py-4 flex justify-between items-center">
         {/* Logo */}
         <div className="flex items-center">
-          <img src="./public/logo.png" alt="Vyapar Logo" className="w-14 h-19 mr-2" />
+          <img src="/logo.png" alt="Vyapar Logo" className="w-14 h-19 mr-2" />
           <span className="text-2xl font-bold text-red-600">Vyapar</span>
         </div>
 
