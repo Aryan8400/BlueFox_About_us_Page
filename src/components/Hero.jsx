@@ -23,7 +23,7 @@ const Hero = () => {
         {/* Image Section */}
         <div className="lg:w-1/2 flex justify-center lg:justify-end lg:pl-16">
           <img 
-            src="./public/Inv.png" 
+            src="gitgipublic/Inv.png" 
             alt="GST Billing App Screenshot" 
             className="w-full max-w-xs sm:max-w-md md:max-w-lg lg:max-w-xl h-auto object-contain" 
           />
