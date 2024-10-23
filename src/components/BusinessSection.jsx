@@ -23,7 +23,7 @@ const BusinessSection = () => {
         {/* Image Section */}
         <div className="lg:w-1/2 flex justify-center lg:justify-end lg:pl-12">
           <img 
-            src="./public/vyapbusiness.jpg" 
+            src="/vyapbusiness.jpg" 
             alt="Vyapar Business Management" 
             className="rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg xl:max-w-xl h-auto object-cover"
           />
