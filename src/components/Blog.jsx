@@ -91,7 +91,7 @@ const Blog = () => {
         </br>
         {/* Image for Blog Post 3 */}
         <img
-          src="./public/Business.jpg"
+          src="/Business.jpg"
           alt="Business Ideas in Bangalore"
           className="w-full h-auto mb-6"
         />
@@ -113,7 +113,7 @@ const Blog = () => {
         </br>
         {/* Image for Blog Post 3 */}
         <img
-          src="./public/Business1.jpg"
+          src="/Business1.jpg"
           alt="Business Ideas in Bangalore"
           className="w-full h-auto mb-6"
         />
